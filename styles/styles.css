@@ -1,0 +1,49 @@
+nav {
+    background-color: black;
+    text-align: center;
+    margin: 20px 40%;
+
+
+}
+nav>a {
+    column-rule-color: aliceblue;
+    text-decoration: none;
+    font: optional;
+    margin: 20px;
+    
+}
+nav>a:link, nav>a:visited, nav>a:active {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+
+}
+table {
+    font-family: Garamond;
+    border-collapse: collapse;
+    width: 40%;
+}
+
+th {
+    background-color: rgba(171, 171, 171, 0.526);
+    text-align: left;
+    
+    
+}
+
+th, td {
+    padding: 10px;
+    width: 100px;
+    height: auto;
+}
+
+.prueba {
+    line-height: 130%;
+    white-space: pre-line;
+
+}
+
